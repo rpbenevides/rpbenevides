@@ -1,4 +1,4 @@
-Hey, I'm Rafael P Benevides!  🙋🏻‍♂️
+<h3>Hey, I'm Rafael P Benevides!  🙋🏻‍♂️</h3>
 
 <div align="center">
   <a href="https://github.com/rpbenevides">
