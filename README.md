@@ -1,7 +1,5 @@
 <h2>Hey, I'm Rafael P Benevides!  🙋🏻‍♂️</h2>
 
-##
-
 <div align="center">
   <a href="https://github.com/rpbenevides">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rpbenevides&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
